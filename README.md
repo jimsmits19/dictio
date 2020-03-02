@@ -1,0 +1,2 @@
+# dictio
+Inline definitions
